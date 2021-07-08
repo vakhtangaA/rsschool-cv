@@ -1,6 +1,7 @@
-<center>
+<div align="center">
 # Vakhtang Chitauri
-</center>
+</div>
+
 ## Education
 
 **Business and Technology University** - *Information Technologies*\
