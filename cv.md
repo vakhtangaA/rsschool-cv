@@ -1,6 +1,5 @@
-<div align="center">
+
 # Vakhtang Chitauri
-</div>
 
 ## Education
 
